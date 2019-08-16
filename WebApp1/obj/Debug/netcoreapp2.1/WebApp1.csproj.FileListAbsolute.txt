@@ -1,0 +1,14 @@
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\bin\Debug\netcoreapp2.1\WebApp1.deps.json
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\bin\Debug\netcoreapp2.1\WebApp1.runtimeconfig.json
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\bin\Debug\netcoreapp2.1\WebApp1.runtimeconfig.dev.json
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\bin\Debug\netcoreapp2.1\WebApp1.dll
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.csprojAssemblyReference.cache
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.csproj.CoreCompileInputs.cache
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.RazorAssemblyInfo.cache
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.RazorAssemblyInfo.cs
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.AssemblyInfoInputs.cache
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.AssemblyInfo.cs
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.RazorTargetAssemblyInfo.cache
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\bin\Debug\netcoreapp2.1\WebApp1.pdb
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.dll
+C:\Users\Zlate\source\repos\SEDC.G2.WebApiApp.HW1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.pdb
